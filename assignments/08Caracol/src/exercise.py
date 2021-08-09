@@ -1,10 +1,6 @@
 def main():
     #escribe tu código abajo de esta línea
-    minutos = float(input("Dame los minutos: "))
-
-    segundos = minutos * 60
-    milimetros = segundos*5.7
-    cm = milimetros/10
+    pass
 
     print("Centímentros recorridos:",cm)
 
