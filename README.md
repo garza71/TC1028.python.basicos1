@@ -1,5 +1,5 @@
 ![Tec de Monterrey](images/logotecmty.png)
-# Ejercicios Básicos
+# Ejercicios Básicos1
 
 - 01 Operaciones Básicas
 - 02 Área Triángulo
